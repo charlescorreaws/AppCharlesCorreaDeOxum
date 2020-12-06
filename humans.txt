@@ -1,0 +1,28 @@
+******************************************
+** www.HUMANTXT.org
+** Uma iniciativa para conhecer os humanos por trás do site, aplicativo ou plataforma. 
+** É um arquivo human.txt que contém informações sobre diferentes pessoas que contribuíram para a construção do site,
+** aplicativo ou plataforma.
+******************************************
+
+--
+Site Name: app.charlesdeoxum.com.br
+Site Tags: Website, androidApp, iosApp, blackBerryApp, windowsApp
+Site Description: App Web para consultas de orixás e de Oracúlos como o Baralho Lenormand Via Internet
+--
+
+/* MANAGMENT */
+humanhumanName: Charles Corrêa de Oxum
+humanLocation: Porto Alegre/RS
+humanWebsite: www.charlesdeoxum.com.br 
+humanEmail: charlescorreadeoxum@gmail.com
+humanFacebook: @CharlesCorreaDeOxum
+humanInstagram: @CharlesDeOxum
+
+/* Developer TEAM */
+                            
+Developer: Charles Corrêa - Soluções Web                            
+WebSite: http://charlescorrea.com.br                            
+Instagram: @CharlesCorreaWS
+Facebook: @CharlesCorreaWS                           
+Location: Porto Alegre/RS

@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /Themes
+Disallow: /Modais
+Disallow: /Databases
+Disallow: /Functions
+Disallow: /CartaDoDia.php
+Disallow: /OrixaDoDia.php
+Disallow: /OrixaDeCabeca.php
+Allow: /index.php
